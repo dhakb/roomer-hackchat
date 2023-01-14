@@ -1,0 +1,6 @@
+[submodule "roomer-client"]
+	path = roomer-client
+	url = https://github.com/giga-mania/roomer-client.git
+[submodule "roomer-server"]
+	path = roomer-server
+	url = https://github.com/giga-mania/roomer-server.git
